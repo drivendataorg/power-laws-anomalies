@@ -1,0 +1,6 @@
+The solution was tested on the the laptop with the following configuration:
+
+Processor: Intel core i7-8550U
+RAM: 16Gb
+
+It takes not more then half an hour for each notebook. Be sure You have enough RAM when starting notebooks.

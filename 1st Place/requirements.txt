@@ -1,0 +1,10 @@
+Python packages:
+- pandas
+- sklearn
+- xgboost
+- datetime
+
+R packages:
+- require(zoo)
+- require(dplyr)
+- require(xgboost)
